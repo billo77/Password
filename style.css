@@ -1,0 +1,35 @@
+body {
+	background: url(car.jpg);
+	background-size: cover;
+}
+.main {
+	margin: 30px;
+}
+
+h1 {
+	font-style: italic;
+	color: rgb(30, 136, 235);
+}
+
+.text {
+	display: block;
+	padding: 5px;
+	border-radius: 8px;
+	font-size: 26px;
+	font-weight: bold;
+	width: 220px;
+	background: rgb(209, 201, 38);
+	outline: none;
+}
+
+.btn {
+	display: block;
+	margin-top: 15px;
+	padding: 5px;
+	width: 235px;
+	font-size: 24px;
+	font-weight: bold;
+	outline: none;
+	border-radius: 8px;
+	background: rgb(50, 139, 151);
+}
